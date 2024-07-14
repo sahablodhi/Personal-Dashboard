@@ -1,0 +1,26 @@
+
+.weather-widget {
+    background: linear-gradient(to bottom right, #4facfe, #00f2fe);
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+  }
+  
+  .weather-widget h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .weather-widget p {
+    font-size: 18px;
+    margin: 5px 0;
+  }
+  
+  .weather-widget img {
+    width: 100px;
+    height: 100px;
+  }
+  
